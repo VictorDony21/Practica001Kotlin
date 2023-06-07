@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Practica001Kotlin</string>
+    <string-array name="paises">
+        <item>México</item>
+        <item>Estados Unidos</item>
+        <item>Canadá</item>
+        <item>Reino Unido</item>
+        <item>Alemania</item>
+        <item>Japón</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>España</item>
+        <item>Argentina</item>
+        <item>Brasil</item>
+        <item>Francia</item>
+        <item>Italia</item>
+        <item>Rusia</item>
+        <item>Australia</item>
+        <item>Sudáfrica</item>
+        <item>India</item>
+        <item>Egipto</item>
+        <item>Suecia</item>
+        <item>Noruega</item>
+        <item>Países Bajos</item>
+    </string-array>
+    <string name="desApp"> Paises disponibles </string>
+    <string name="lblPaises"> Seleccione un pais: </string>
+</resources>
